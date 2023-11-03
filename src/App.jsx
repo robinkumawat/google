@@ -33,7 +33,7 @@ function App() {
   return (
     <>
     <div className="logo">
-      <img src="src/assets/google logo.png" alt="" />
+      <img src="assets/google logo.png" alt="" />
       </div>
      <div className="googleinput">
      <input type="text" 
